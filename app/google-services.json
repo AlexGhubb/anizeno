@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "158078104184",
+    "project_id": "anizeno-1ca9a",
+    "storage_bucket": "anizeno-1ca9a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:158078104184:android:8097cd2353ac89128bb38d",
+        "android_client_info": {
+          "package_name": "com.example.anizeno"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "158078104184-1gl4k0vk1rps6de07essnu8h5m97lgfc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDlL2Ufs51z_x4GVft3DlZy4qI71nDqPYQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "158078104184-1gl4k0vk1rps6de07essnu8h5m97lgfc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

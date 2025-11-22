@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- APP -->
+    <string name="app_name">Anizeno</string>
+
+    <!-- LOGIN -->
+    <string name="login_title">Iniciar sessão</string>
+    <string name="email">Email</string>
+    <string name="password">Senha</string>
+    <string name="forgot_password">Esqueceste a senha?</string>
+    <string name="reset_password">Redefinir senha</string>
+    <string name="send_reset">Enviar email de recuperação</string>
+    <string name="check_email">Verifica o teu email</string>
+    <string name="invalid_email">Email inválido</string>
+    <string name="login_button">Iniciar sessão</string>
+    <string name="go_register">Criar conta</string>
+
+    <!-- REGISTER -->
+    <string name="register_title">Criar conta</string>
+    <string name="username">Nome de utilizador</string>
+    <string name="confirm_password">Confirmar senha</string>
+    <string name="passwords_no_match">As senhas não coincidem</string>
+    <string name="password_rules">Min. 8 caracteres, maiúscula, minúscula e número</string>
+    <string name="register_button">Criar conta</string>
+    <string name="go_login">Já tens conta? Inicia sessão</string>
+    <string name="username_invalid">Apenas letras, números e _</string>
+    <string name="password_invalid_short">Min. 8 caracteres com maiúsculas, minúsculas e números</string>
+
+    <!-- HOME -->
+    <string name="home_welcome">Bem-vindo, %1$s!</string>
+    <string name="home_subtitle">Explora, pesquisa e desfruta do teu anime favorito</string>
+    <string name="home_upcoming">Próxima temporada</string>
+    <string name="home_current">Temporada atual</string>
+    <string name="home_top">Top animes</string>
+    <string name="view_more">Ver mais…</string>
+    <string name="hide_list">Ocultar lista</string>
+    <string name="show_list">Mostrar lista</string>
+    <string name="see_more">Ver mais...</string>
+
+
+    <!-- NAVIGATION -->
+    <string name="nav_home">Início</string>
+    <string name="nav_profile">Perfil</string>
+    <string name="nav_explore">Explorar</string>
+
+    <!-- PROFILE -->
+    <string name="edit_profile">Editar perfil</string>
+    <string name="bio">Biografia</string>
+    <string name="favorites">❤️ Favoritos</string>
+    <string name="watched">👀 Vistos</string>
+    <string name="planned">⭐ Interessado</string>
+    <string name="category_empty">Nenhum anime nesta categoria.</string>
+    <string name="save">Guardar</string>
+    <string name="cancel">Cancelar</string>
+    <string name="photo_updated">Foto atualizada</string>
+    <string name="delete">Eliminar</string>
+    <string name="delete_anime_msg">Queres eliminar este anime?</string>
+    <string name="profile_photo">Foto de perfil</string>
+    <string name="edit_profile_button">Editar perfil</string>
+    <string name="tap_to_edit">Toca para editar os teus dados 🌸</string>
+    <string name="move_anime_btn">Mover anime</string>
+    <string name="move_anime_title">Mover anime para outra lista</string>
+    <string name="back">Voltar</string>
+    <string name="logout">Terminar sessão</string>
+
+    <!-- ANIME DETAIL -->
+    <string name="anime_detail_title">Detalhes do anime</string>
+    <string name="no_title">Sem título</string>
+    <string name="add_to_list">Adicionar à minha lista</string>
+    <string name="add">Adicionar</string>
+    <string name="fav_list">❤️ Favoritos</string>
+    <string name="watched_list">👀 Vistos</string>
+    <string name="interested_list">⭐ Interessado</string>
+    <string name="added_success">Adicionado com sucesso</string>
+    <string name="already_in_list">Este anime já está nesta lista</string>
+
+    <!-- INFO -->
+    <string name="studio">Estúdio</string>
+    <string name="episodes">Episódios</string>
+    <string name="score">Pontuação</string>
+    <string name="status">Estado</string>
+    <string name="unknown">Desconhecido</string>
+
+    <!-- SYNOPSIS -->
+    <string name="synopsis">Sinopse</string>
+    <string name="no_synopsis">Nenhuma descrição disponível.</string>
+
+    <!-- TRAILER -->
+    <string name="trailer">Trailer</string>
+    <string name="play">Reproduzir</string>
+
+    <!-- REVIEWS -->
+    <string name="reviews_title">Críticas de utilizadores locais</string>
+    <string name="no_reviews">Ainda não há críticas.</string>
+    <string name="comment">Comentar</string>
+    <string name="already_reviewed">Já fizeste uma crítica para este anime.</string>
+    <string name="duplicate_review">Já tens uma crítica registada.</string>
+    <string name="add_review_to">Adicionar crítica a</string>
+    <string name="your_opinion">A tua opinião</string>
+    <string name="review_added">Crítica adicionada</string>
+    <string name="delete_review">Eliminar crítica</string>
+    <string name="delete_review_confirm">Tens a certeza que queres eliminar a crítica?</string>
+
+</resources>

@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- APP -->
+    <string name="app_name">Anizeno</string>
+
+    <!-- LOGIN -->
+    <string name="login_title">Hasi saioa</string>
+    <string name="email">Emaila</string>
+    <string name="password">Pasahitza</string>
+    <string name="forgot_password">Pasahitza ahaztu duzu?</string>
+    <string name="reset_password">Pasahitza berrezarri</string>
+    <string name="send_reset">Berreskuratze mezua bidali</string>
+    <string name="check_email">Begiratu zure postontzia</string>
+    <string name="invalid_email">Email baliogabea</string>
+    <string name="login_button">Hasi saioa</string>
+    <string name="go_register">Erregistratu</string>
+
+    <!-- REGISTER -->
+    <string name="register_title">Kontua sortu</string>
+    <string name="username">Erabiltzaile izena</string>
+    <string name="confirm_password">Pasahitza berretsi</string>
+    <string name="passwords_no_match">Pasahitzak ez datoz bat</string>
+    <string name="password_rules">Gutxienez 8 karaktere, maiuskula, minuskula eta zenbaki</string>
+    <string name="register_button">Kontua sortu</string>
+    <string name="go_login">Kontua baduzu? Hasi saioa</string>
+    <string name="username_invalid">Bakarrik letrak, zenbakiak eta _</string>
+    <string name="password_invalid_short">Min. 8 karaktere maius, minus eta zenbakiekin</string>
+
+    <!-- HOME -->
+    <string name="home_welcome">Ongi etorri, %1$s!</string>
+    <string name="home_subtitle">Arakatu, bilatu eta gozatu zure anime gogokoenaz</string>
+    <string name="home_upcoming">Hurrengo denboraldia</string>
+    <string name="home_current">Uneko denboraldia</string>
+    <string name="home_top">Anime onenak</string>
+    <string name="view_more">Gehiago ikusi…</string>
+    <string name="hide_list">Zerrenda ezkutatu</string>
+    <string name="show_list">Zerrenda erakutsi</string>
+    <string name="see_more">Gehiago ikusi...</string>
+
+
+    <!-- NAVIGATION -->
+    <string name="nav_home">Hasiera</string>
+    <string name="nav_profile">Profila</string>
+    <string name="nav_explore">Arakatu</string>
+
+    <!-- PROFILE -->
+    <string name="edit_profile">Profila editatu</string>
+    <string name="bio">Biografia</string>
+    <string name="favorites">❤️ Gogokoak</string>
+    <string name="watched">👀 Ikusita</string>
+    <string name="planned">⭐ Interesgarria</string>
+    <string name="category_empty">Ez dago animeik kategoria honetan.</string>
+    <string name="save">Gorde</string>
+    <string name="cancel">Utzi</string>
+    <string name="photo_updated">Argazkia eguneratuta</string>
+    <string name="delete">Ezabatu</string>
+    <string name="delete_anime_msg">Anime hau ezabatu nahi duzu?</string>
+    <string name="profile_photo">Profil argazkia</string>
+    <string name="edit_profile_button">Profila editatu</string>
+    <string name="tap_to_edit">Sakatu datuak editatzeko 🌸</string>
+    <string name="move_anime_btn">Animea mugitu</string>
+    <string name="move_anime_title">Animea beste zerrenda batera mugitu</string>
+    <string name="back">Atzera</string>
+    <string name="logout">Saioa itxi</string>
+
+    <!-- ANIME DETAIL -->
+    <string name="anime_detail_title">Animeren xehetasunak</string>
+    <string name="no_title">Izenik gabe</string>
+    <string name="add_to_list">Nire zerrendara gehitu</string>
+    <string name="add">Gehitu</string>
+    <string name="fav_list">❤️ Gogokoak</string>
+    <string name="watched_list">👀 Ikusita</string>
+    <string name="interested_list">⭐ Interesgarria</string>
+    <string name="added_success">Ondo gehituta</string>
+    <string name="already_in_list">Anime hau dagoeneko zerrendan dago</string>
+
+    <!-- INFO -->
+    <string name="studio">Estudioa</string>
+    <string name="episodes">Atalak</string>
+    <string name="score">Puntuazioa</string>
+    <string name="status">Egoera</string>
+    <string name="unknown">Ezezaguna</string>
+
+    <!-- SYNOPSIS -->
+    <string name="synopsis">Sinopsia</string>
+    <string name="no_synopsis">Ez dago deskribapenik.</string>
+
+    <!-- TRAILER -->
+    <string name="trailer">Trailerra</string>
+    <string name="play">Erreproduzitu</string>
+
+    <!-- REVIEWS -->
+    <string name="reviews_title">Tokiko erabiltzaileen kritikak</string>
+    <string name="no_reviews">Oraindik ez dago kritikik.</string>
+    <string name="comment">Iruzkindu</string>
+    <string name="already_reviewed">Anime honi buruz iruzkina jada egin duzu.</string>
+    <string name="duplicate_review">Erregistratutako iruzkin bat baduzu jada.</string>
+    <string name="add_review_to">Iruzkina gehitu honi:</string>
+    <string name="your_opinion">Zure iritzia</string>
+    <string name="review_added">Iruzkina gehituta</string>
+    <string name="delete_review">Iruzkina ezabatu</string>
+    <string name="delete_review_confirm">Ziur zaude iruzkina ezabatu nahi duzula?</string>
+
+</resources>

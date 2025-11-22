@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- APP -->
+    <string name="app_name">Anizeno</string>
+
+    <!-- LOGIN -->
+    <string name="login_title">ログイン</string>
+    <string name="email">メールアドレス</string>
+    <string name="password">パスワード</string>
+    <string name="forgot_password">パスワードを忘れましたか？</string>
+    <string name="reset_password">パスワードをリセット</string>
+    <string name="send_reset">復旧メールを送信</string>
+    <string name="check_email">メールを確認してください</string>
+    <string name="invalid_email">無効なメールアドレスです</string>
+    <string name="login_button">ログイン</string>
+    <string name="go_register">新規登録</string>
+
+    <!-- REGISTER -->
+    <string name="register_title">アカウント作成</string>
+    <string name="username">ユーザー名</string>
+    <string name="confirm_password">パスワードの確認</string>
+    <string name="passwords_no_match">パスワードが一致しません</string>
+    <string name="password_rules">8文字以上、大文字・小文字・数字を含めてください</string>
+    <string name="register_button">アカウント作成</string>
+    <string name="go_login">すでにアカウントがありますか？ ログイン</string>
+    <string name="username_invalid">使用できるのは英数字と _ のみです</string>
+    <string name="password_invalid_short">8文字以上、大文字・小文字・数字を含めてください</string>
+
+    <!-- HOME -->
+    <string name="home_welcome">%1$s さん、ようこそ！</string>
+    <string name="home_subtitle">お気に入りのアニメを探して楽しもう</string>
+    <string name="home_upcoming">次のシーズン</string>
+    <string name="home_current">現在のシーズン</string>
+    <string name="home_top">歴代トップアニメ</string>
+    <string name="view_more">もっと見る…</string>
+    <string name="hide_list">リストを隠す</string>
+    <string name="show_list">リストを表示</string>
+    <string name="see_more">もっと見る…</string>
+
+
+    <!-- NAVIGATION -->
+    <string name="nav_home">ホーム</string>
+    <string name="nav_profile">プロフィール</string>
+    <string name="nav_explore">探索</string>
+
+    <!-- PROFILE -->
+    <string name="edit_profile">プロフィール編集</string>
+    <string name="bio">自己紹介</string>
+    <string name="favorites">❤️ お気に入り</string>
+    <string name="watched">👀 視聴済み</string>
+    <string name="planned">⭐ 興味あり</string>
+    <string name="category_empty">このカテゴリーにはアニメがありません。</string>
+    <string name="save">保存</string>
+    <string name="cancel">キャンセル</string>
+    <string name="photo_updated">写真を更新しました</string>
+    <string name="delete">削除</string>
+    <string name="delete_anime_msg">このアニメを削除しますか？</string>
+    <string name="profile_photo">プロフィール写真</string>
+    <string name="edit_profile_button">プロフィールを編集</string>
+    <string name="tap_to_edit">タップして編集 🌸</string>
+    <string name="move_anime_btn">アニメを移動</string>
+    <string name="move_anime_title">アニメを別のリストへ移動</string>
+    <string name="back">戻る</string>
+    <string name="logout">ログアウト</string>
+
+    <!-- ANIME DETAIL -->
+    <string name="anime_detail_title">アニメ詳細</string>
+    <string name="no_title">タイトルなし</string>
+    <string name="add_to_list">リストに追加</string>
+    <string name="add">追加</string>
+    <string name="fav_list">❤️ お気に入り</string>
+    <string name="watched_list">👀 視聴済み</string>
+    <string name="interested_list">⭐ 興味あり</string>
+    <string name="added_success">追加しました</string>
+    <string name="already_in_list">このアニメはすでにリストにあります</string>
+
+    <!-- INFO -->
+    <string name="studio">スタジオ</string>
+    <string name="episodes">話数</string>
+    <string name="score">スコア</string>
+    <string name="status">ステータス</string>
+    <string name="unknown">不明</string>
+
+    <!-- SYNOPSIS -->
+    <string name="synopsis">あらすじ</string>
+    <string name="no_synopsis">説明はありません。</string>
+
+    <!-- TRAILER -->
+    <string name="trailer">トレーラー</string>
+    <string name="play">再生</string>
+
+    <!-- REVIEWS -->
+    <string name="reviews_title">ローカルユーザーのレビュー</string>
+    <string name="no_reviews">まだレビューがありません。</string>
+    <string name="comment">コメント</string>
+    <string name="already_reviewed">このアニメにはすでにレビューしています。</string>
+    <string name="duplicate_review">レビューはすでに登録されています。</string>
+    <string name="add_review_to">レビューを追加：</string>
+    <string name="your_opinion">あなたの意見</string>
+    <string name="review_added">レビューを追加しました</string>
+    <string name="delete_review">レビュー削除</string>
+    <string name="delete_review_confirm">レビューを削除してもよろしいですか？</string>
+
+</resources>

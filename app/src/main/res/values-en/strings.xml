@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- APP -->
+    <string name="app_name">Anizeno</string>
+
+    <!-- LOGIN -->
+    <string name="login_title">Sign In</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="forgot_password">Forgot your password?</string>
+    <string name="reset_password">Reset password</string>
+    <string name="send_reset">Send recovery email</string>
+    <string name="check_email">Check your inbox</string>
+    <string name="invalid_email">Invalid email</string>
+    <string name="login_button">Log in</string>
+    <string name="go_register">Register</string>
+
+    <!-- REGISTER -->
+    <string name="register_title">Create Account</string>
+    <string name="username">Username</string>
+    <string name="confirm_password">Confirm password</string>
+    <string name="passwords_no_match">Passwords do not match</string>
+    <string name="password_rules">At least 8 characters, uppercase, lowercase and number</string>
+    <string name="register_button">Create account</string>
+    <string name="go_login">Already have an account? Log in</string>
+    <string name="username_invalid">Only letters, numbers and _ allowed</string>
+    <string name="password_invalid_short">Min. 8 chars, uppercase, lowercase and numbers</string>
+
+    <!-- HOME -->
+    <string name="home_welcome">Welcome, %1$s!</string>
+    <string name="home_subtitle">Explore, search and enjoy your favorite anime</string>
+    <string name="home_upcoming">Upcoming Season</string>
+    <string name="home_current">Current Season</string>
+    <string name="home_top">All Time Top</string>
+    <string name="view_more">View more...</string>
+    <string name="hide_list">Hide list</string>
+    <string name="show_list">Show list</string>
+    <string name="see_more">See more...</string>
+
+
+    <!-- NAVIGATION -->
+    <string name="nav_home">Home</string>
+    <string name="nav_profile">Profile</string>
+    <string name="nav_explore">Explore</string>
+
+    <!-- PROFILE -->
+    <string name="edit_profile">Edit profile</string>
+    <string name="bio">Bio</string>
+    <string name="favorites">❤️ Favorites</string>
+    <string name="watched">👀 Watched</string>
+    <string name="planned">⭐ Planning</string>
+    <string name="category_empty">No anime in this category.</string>
+    <string name="save">Save</string>
+    <string name="cancel">Cancel</string>
+    <string name="photo_updated">Profile photo updated</string>
+    <string name="delete">Delete</string>
+    <string name="delete_anime_msg">Do you want to delete this anime?</string>
+    <string name="profile_photo">Profile photo</string>
+    <string name="edit_profile_button">Edit profile</string>
+    <string name="tap_to_edit">Tap to edit your info 🌸</string>
+    <string name="move_anime_btn">Move anime</string>
+    <string name="move_anime_title">Move anime to another list</string>
+    <string name="back">Back</string>
+    <string name="logout">Log out</string>
+
+    <!-- ANIME DETAIL -->
+    <string name="anime_detail_title">Anime details</string>
+    <string name="no_title">No title</string>
+    <string name="add_to_list">Add to my list</string>
+    <string name="add">Add</string>
+    <string name="fav_list">❤️ Favorites</string>
+    <string name="watched_list">👀 Watched</string>
+    <string name="interested_list">⭐ Interested</string>
+    <string name="added_success">Added successfully</string>
+    <string name="already_in_list">This anime is already in this list</string>
+
+    <!-- INFO -->
+    <string name="studio">Studio</string>
+    <string name="episodes">Episodes</string>
+    <string name="score">Score</string>
+    <string name="status">Status</string>
+    <string name="unknown">Unknown</string>
+
+    <!-- SYNOPSIS -->
+    <string name="synopsis">Synopsis</string>
+    <string name="no_synopsis">No description available.</string>
+
+    <!-- TRAILER -->
+    <string name="trailer">Trailer</string>
+    <string name="play">Play</string>
+
+    <!-- REVIEWS -->
+    <string name="reviews_title">Local user reviews</string>
+    <string name="no_reviews">There are no reviews yet.</string>
+    <string name="comment">Comment</string>
+    <string name="already_reviewed">You already left a review for this anime.</string>
+    <string name="duplicate_review">You already have a registered review.</string>
+    <string name="add_review_to">Add review to</string>
+    <string name="your_opinion">Your opinion</string>
+    <string name="review_added">Review added</string>
+    <string name="delete_review">Delete review</string>
+    <string name="delete_review_confirm">Are you sure you want to delete your review?</string>
+
+</resources>
