@@ -56,6 +56,13 @@ import com.google.firebase.auth.FirebaseAuth
 
 /**
  * LoginScreen muestra la pantalla de inicio de sesión.
+ * Permite al usuario ingresar su correo electrónico y contraseña para iniciar sesión.
+ *
+ * @param onLoginClick Callback que se llama cuando el usuario hace clic en el botón de inicio de sesión.
+ * @param onRegisterClick Callback que se llama cuando el usuario hace clic en el botón de registro.
+ * @param onForgotPasswordClick Callback que se llama cuando el usuario hace clic en el enlace de restablecimiento de contraseña.
+ * @param onBackClick Callback que se llama cuando el usuario hace clic en el botón de retroceso.
+ * 
  */
 //@OptIn(ExperimentalMaterial3Api::class)
 @SuppressLint("ContextCastToActivity")

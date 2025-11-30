@@ -483,6 +483,10 @@ fun ReviewCard(
 
 /**
  * AddReviewDialog muestra un diálogo para añadir una crítica a un anime.
+ *
+ * @param animeTitle Título del anime.
+ * @param onSave Callback que se llama al guardar la crítica.
+ * @param onDismiss Callback que se llama al cerrar el diálogo.
  */
 @Composable
 fun AddReviewDialog(
