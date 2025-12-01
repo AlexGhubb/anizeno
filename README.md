@@ -1,6 +1,6 @@
 Anizeno
 
-    App gestora de series Anime para Android Compose - Proyecto Final Curso
+    App gestora de series Anime para Android - Proyecto Final Curso
     Autor: Alejandro Soria Torres 
     Tutor del Proyecto: José Antonio Ortega Hidalgo
 
